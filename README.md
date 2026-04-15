@@ -1,9 +1,9 @@
 # Game Now - Projeto Web
-```
+
 Caso haja alguma dificuldade na execução ou configuração do projeto, disponibilizo abaixo um vídeo demonstrativo com todas as funcionalidades da aplicação em funcionamento:
 
 https://drive.google.com/file/d/10LGDyrAYTTS69-nRNIaRYiqzfJvwsPnx/view?usp=sharing
-```
+
 ---
 
 ## Descrição
@@ -80,4 +80,4 @@ meu-projeto/
 ## Autor
 
 Marco Túlio Ferreira Soares
-```
+
