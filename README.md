@@ -1,90 +1,79 @@
-# Game Now - Aplicação Web
+# Projeto Web
+
+## Demonstração em Vídeo
+
+Caso haja qualquer problema ao acessar ou executar o projeto, assista à demonstração completa no vídeo abaixo:
+
+🔗 https://drive.google.com/file/d/10LGDyrAYTTS69-nRNIaRYiqzfJvwsPnx/view?usp=sharing
+
+---
 
 ## Descrição
 
-Este projeto consiste em uma aplicação web de e-commerce desenvolvida com HTML, CSS e JavaScript puro. A interface apresenta um design moderno com tema escuro, foco em usabilidade e recursos de acessibilidade para melhorar a experiência do usuário.
+Este projeto consiste no desenvolvimento de uma aplicação web que apresenta uma interface interativa, com foco em usabilidade e organização visual dos elementos.
 
-A aplicação simula uma loja virtual com navegação entre páginas, exibição de produtos, carrinho de compras e funcionalidades interativas.
+A aplicação foi construída visando uma navegação simples e eficiente, permitindo ao usuário interagir com os conteúdos de forma intuitiva.
 
-## Funcionalidades
-
-### Interface e Navegação
-
-* Menu lateral (sidebar) com navegação entre páginas
-* Barra de pesquisa de produtos
-* Layout responsivo e organizado
-* Carrossel de promoções com imagens e vídeo
-
-### Produtos
-
-* Exibição de produtos em formato de grade
-* Carrossel horizontal para navegação entre itens
-* Botão de compra em cada produto
-
-### Carrinho de Compras
-
-* Adição de produtos ao carrinho
-* Contador de itens
-* Visualização dos itens adicionados
-* Opção de limpar o carrinho
-
-### Menu do Usuário
-
-* Acesso a opções como:
-
-  * Minhas compras
-  * Acompanhar pedidos
-  * Ajuda
-  * Minha conta
-
-## Acessibilidade
-
-A aplicação inclui um painel de acessibilidade com as seguintes opções:
-
-* Alternância entre modo claro e modo escuro
-* Ajuste do tamanho da fonte (aumentar e diminuir)
-* Modo para usuários com daltonismo (escala de cinza com contraste ajustado)
-* Fechamento automático do painel ao clicar fora
+---
 
 ## Tecnologias Utilizadas
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
-* Google Fonts
+- HTML5
+- CSS3
+- JavaScript
 
-## Estrutura de Pastas
+---
 
+## Como Executar o Projeto
+
+1. Clone este repositório:
+
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+
+3. Acesse a pasta do projeto:
+
+   ```bash
+   cd NOME_DO_PROJETO
+   ```
+
+4. Execute utilizando um servidor local (recomendado):
+
+   ```bash
+   npx serve
+   ```
+
+5. Acesse no navegador:
+
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+## Estrutura do Projeto
+
+```
 /projeto
-│
-├── index.html
-├── /pages
-│   ├── produtos.html
-│   ├── sobre.html
-│   ├── lojas.html
-│   └── contato.html
-│
-├── /videos
-│   └── Notebook.mp4
-│
-├── /images
-│   └── logo.png
+│-- index.html
+│-- style.css
+│-- script.js
+│-- /assets
+```
 
-## Como Executar
+---
 
-1. Faça o download ou clone do projeto
-2. Abra o arquivo `index.html` em um navegador
-3. Navegue pelas páginas através do menu lateral
+## Observações
 
-## Melhorias Futuras
+* Certifique-se de que todos os arquivos estejam organizados corretamente.
+* Caso haja dificuldade ao executar, utilize o vídeo de demonstração disponível no início deste documento.
 
-* Integração com backend para persistência de dados
-* Sistema de login e autenticação
-* Banco de dados para produtos e usuários
-* Filtros e busca avançada de produtos
-* Responsividade aprimorada para dispositivos móveis
-* Armazenamento das preferências de acessibilidade
+---
 
 ## Autor
 
 Marco Túlio Ferreira Soares
+
+```
+```
