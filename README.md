@@ -1,4 +1,4 @@
-# Projeto Web
+# Game Now
 
 ## Demonstração em Vídeo
 
@@ -74,6 +74,3 @@ A aplicação foi construída visando uma navegação simples e eficiente, permi
 ## Autor
 
 Marco Túlio Ferreira Soares
-
-```
-```
