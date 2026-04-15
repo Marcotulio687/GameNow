@@ -1,76 +1,83 @@
-# Game Now
+# Game Now - Projeto Web
+```
+Caso haja alguma dificuldade na execução ou configuração do projeto, disponibilizo abaixo um vídeo demonstrativo com todas as funcionalidades da aplicação em funcionamento:
 
-## Demonstração em Vídeo
-
-Caso haja qualquer problema ao acessar ou executar o projeto, assista à demonstração completa no vídeo abaixo:
-
-🔗 https://drive.google.com/file/d/10LGDyrAYTTS69-nRNIaRYiqzfJvwsPnx/view?usp=sharing
-
+https://drive.google.com/file/d/10LGDyrAYTTS69-nRNIaRYiqzfJvwsPnx/view?usp=sharing
+```
 ---
 
 ## Descrição
 
-Este projeto consiste no desenvolvimento de uma aplicação web que apresenta uma interface interativa, com foco em usabilidade e organização visual dos elementos.
-
-A aplicação foi construída visando uma navegação simples e eficiente, permitindo ao usuário interagir com os conteúdos de forma intuitiva.
+Este projeto consiste no desenvolvimento de uma aplicação web de uma loja virtual com interface moderna, responsiva e interativa. A aplicação simula um ambiente de e-commerce, permitindo navegação entre páginas, visualização de produtos e interação com elementos dinâmicos como carrinho e menus.
 
 ---
 
-## Tecnologias Utilizadas
+## Funcionalidades
 
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-## Como Executar o Projeto
-
-1. Clone este repositório:
-
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   ```
-
-3. Acesse a pasta do projeto:
-
-   ```bash
-   cd NOME_DO_PROJETO
-   ```
-
-4. Execute utilizando um servidor local (recomendado):
-
-   ```bash
-   npx serve
-   ```
-
-5. Acesse no navegador:
-
-   ```
-   http://localhost:3000
-   ```
+- Menu lateral com navegação entre páginas  
+- Barra de pesquisa estilizada  
+- Carrossel de promoções com vídeo e imagens  
+- Listagem de produtos em formato de carrossel horizontal  
+- Carrinho de compras dinâmico  
+- Menu de usuário  
+- Botão de acessibilidade com:  
+  - Alternância entre modo claro e escuro  
+  - Ajuste de tamanho da fonte  
+  - Modo para daltonismo  
+- Interface moderna com efeitos visuais e animações  
 
 ---
 
 ## Estrutura do Projeto
 
 ```
-/projeto
-│-- index.html
-│-- style.css
-│-- script.js
-│-- /assets
+
+meu-projeto/
+│
+├── index.html
+├── README.md
+│
+├── pages/
+│   ├── produtos.html
+│   ├── sobre.html
+│   ├── lojas.html
+│   └── contato.html
+│
+├── images/
+│   └── logo.png
+│
+└── videos/
+└── Notebook.mp4
+
 ```
+
+---
+
+## Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## Como Executar o Projeto
+
+1. Baixe ou clone este repositório  
+2. Certifique-se de que a estrutura de pastas está correta  
+3. Abra o arquivo `index.html` em um navegador  
 
 ---
 
 ## Observações
 
-* Certifique-se de que todos os arquivos estejam organizados corretamente.
-* Caso haja dificuldade ao executar, utilize o vídeo de demonstração disponível no início deste documento.
+- O projeto não depende de instalação de bibliotecas externas  
+- Todos os recursos utilizados estão organizados localmente  
+- Recomenda-se manter a estrutura de pastas para evitar erros de navegação  
 
 ---
 
 ## Autor
 
 Marco Túlio Ferreira Soares
+```
